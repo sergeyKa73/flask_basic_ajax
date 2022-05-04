@@ -1,0 +1,14 @@
+li {
+    position: relative;
+    display: flax;
+    flex-direction: colum;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+    flex: 1 1 auto;
+    padding: 1rem 1rem;
+    margin-bottom: 1rem:
+}
